@@ -61,9 +61,9 @@ ros2 launch caleuche_viz wam_v.launch.py
 
 ## Robotic Neck sub-modules
 
-* [robotic_neck_driver](): Contains packages to bringup the comunication between the platform and the computer`s user. it also contain a node to apply teleoperation by a PS4 controller.
-* [robotic_neck_viz](): Contains packages to visualize the robot kinematics with RVIZ for simulation or digital twin uses.
-* [robotic_neck_control](): Contains packages to apply PID position control over the linear actuators for pitch and roll manipulation.
+* [robotic_neck_driver](): ROS2 package to bringup the comunication between the platform and the computer`s user. it also contain a node to apply teleoperation by a PS4 controller.
+* [robotic_neck_viz](): ROS2 package to visualize the robot kinematics with RVIZ for simulation or digital twin uses.
+* [robotic_neck_control](): ROS2 package to apply PID position control over the linear actuators for pitch and roll manipulation.
 * [robotic_neck_micro_ros](): PlatformIO repository to develop the microcontroller software with the Micro-ROS framework. 
   
 ## Documentation
