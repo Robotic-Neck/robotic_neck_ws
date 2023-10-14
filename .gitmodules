@@ -1,0 +1,9 @@
+[submodule "src/robotic_neck_driver"]
+	path = src/robotic_neck_driver
+	url = https://github.com/Robotic-Neck/robotic_neck_driver.git
+[submodule "src/robotic_neck_control"]
+	path = src/robotic_neck_control
+	url = https://github.com/Robotic-Neck/robotic_neck_control.git
+[submodule "src/robotic_neck_viz"]
+	path = src/robotic_neck_viz
+	url = https://github.com/Robotic-Neck/robotic_neck_viz.git
