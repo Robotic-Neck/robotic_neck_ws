@@ -56,11 +56,6 @@ cd robotic_neck_ws/
 rosdep install -i --from-path src --rosdistro humble -y
 ```
 
-## Demo 
-```
-ros2 launch caleuche_viz wam_v.launch.py
-```
-
 ## Robotic Neck sub-modules
 
 * [robotic_neck_driver](https://github.com/Robotic-Neck/robotic_neck_driver): ROS2 package to bringup the comunication between the platform and the computer`s user. it also contain a node to apply teleoperation by a PS4 controller.
