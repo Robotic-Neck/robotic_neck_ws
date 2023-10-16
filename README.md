@@ -1,7 +1,9 @@
 # robotic_neck_ws
 This is the ROS2  workspace for de robotic neck capstone project
 
-TODO: add image
+<p align="center">
+  <img width="380" height="460" src="/docs/imgs/robotic_neck.jpeg">
+</p>
 
 ## Description
 This repository is to organize the different ROS2 package and PlatformIO repositories necessaries to develop the robotic neck software. Any package has a description of the dependencies that you would need to work with it, make sure to check it after installing the workspace.
