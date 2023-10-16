@@ -66,11 +66,6 @@ rosdep install -i --from-path src --rosdistro humble -y
 ## Documentation
 TODO
 
-## Guides
-TODO
-* [Documentation template]()
-* [Add dependencies with rosdep]()
-
 ## Authors
 * Cristian Nova (cristian.nova@uc.cl)
 * Name 2 (TODO)
