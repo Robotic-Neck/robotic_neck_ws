@@ -1,7 +1,7 @@
 # robotic_neck_ws
 This is the ROS2  workspace for de robotic neck capstone project
 
-<p align="center">
+<p align="left">
   <img width="380" height="460" src="/docs/imgs/robotic_neck.png">
 </p>
 
