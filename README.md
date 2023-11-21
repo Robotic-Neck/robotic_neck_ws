@@ -1,8 +1,8 @@
 # robotic_neck_ws
 This is the ROS2  workspace for de robotic neck capstone project
 
-<p align="center">
-  <img width="380" height="460" src="/docs/imgs/robotic_neck.jpeg">
+<p align="left">
+  <img width="380" height="460" src="/docs/imgs/robotic_neck.png">
 </p>
 
 ## Description
@@ -56,11 +56,6 @@ cd robotic_neck_ws/
 rosdep install -i --from-path src --rosdistro humble -y
 ```
 
-## Demo 
-```
-ros2 launch caleuche_viz wam_v.launch.py
-```
-
 ## Robotic Neck sub-modules
 
 * [robotic_neck_driver](https://github.com/Robotic-Neck/robotic_neck_driver): ROS2 package to bringup the comunication between the platform and the computer`s user. it also contain a node to apply teleoperation by a PS4 controller.
@@ -70,11 +65,6 @@ ros2 launch caleuche_viz wam_v.launch.py
   
 ## Documentation
 TODO
-
-## Guides
-TODO
-* [Documentation template]()
-* [Add dependencies with rosdep]()
 
 ## Authors
 * Cristian Nova (cristian.nova@uc.cl)
